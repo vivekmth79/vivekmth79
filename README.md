@@ -3,8 +3,6 @@
 
 
 
-![iron_C_4](https://github.com/vivekmth79/vivekmth79/assets/122387680/ebcd5fe3-ad28-4a06-8f36-a1d691467ca1)
-
 
 <h3 align![Uploading iron_C_4.png…]()
 ="left">Connect with me:</h3>
