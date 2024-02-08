@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekmth79&label=Profile%20views&color=0e75b6&style=flat" alt="vivekmth79" /> </p>
+
+
+<p align="left"> <![WhatsApp Image 2024-02-07 at 4 53 32 PM](https://github.com/vivekmth79/vivekmth79/assets/122387680/ea9e18ec-ada5-485d-9969-63f74a31f5f1)
+img src="https://komarev.com/ghpvc/?username=vivekmth79&label=Profile%20views&color=0e75b6&style=flat" alt="vivekmth79" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
