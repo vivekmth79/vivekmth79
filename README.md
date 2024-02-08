@@ -3,10 +3,11 @@
 
 
 
-<p align="left"> <![WhatsApp Image 2024-02-07 at 4 53 32 PM](https://github.com/vivekmth79/vivekmth79/assets/122387680/ea9e18ec-ada5-485d-9969-63f74a31f5f1)
-img src="https://komarev.com/ghpvc/?username=vivekmth79&label=Profile%20views&color=0e75b6&style=flat" alt="vivekmth79" /> </p>
+![iron_C_4](https://github.com/vivekmth79/vivekmth79/assets/122387680/ebcd5fe3-ad28-4a06-8f36-a1d691467ca1)
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align![Uploading iron_C_4.png…]()
+="left">Connect with me:</h3>
 <p align="left">
 </p>
 
